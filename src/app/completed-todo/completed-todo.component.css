@@ -1,0 +1,15 @@
+.done{
+    margin-top: 3px;
+    border-color: rgb(195, 231, 195);
+    text-decoration: line-through;
+    box-shadow: 5px 10px 18px #888888;
+    height: 50px;
+    margin-top: 7px;
+    background-color: rgb(217, 243, 217);
+    padding-left: 3px;
+}
+
+.done:hover{
+    box-shadow: 5px 10px 18px #494848;
+    opacity: 3;
+}

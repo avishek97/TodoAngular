@@ -1,0 +1,14 @@
+
+.pending{
+    margin-top: 3px;
+    border-color: rgb(238, 209, 209);
+    box-shadow: 5px 10px 18px #888888;
+    height: 50px;
+    margin-top: 7px;
+    background-color: rgb(241, 227, 227);
+    padding-left: 3px;
+}
+.pending:hover{
+    box-shadow: 5px 10px 18px #494848;
+    opacity: 3;
+}

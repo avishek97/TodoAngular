@@ -1,0 +1,17 @@
+
+.pending{
+    margin-left: 5px;
+    border-color: rgb(245, 222, 222);
+    box-shadow: 5px 10px 18px #888888;
+    height: 50px;
+    margin-top: 7px;
+    background-color: rgb(241, 227, 227);
+    margin-right: 5px;
+    align-items: flex-start;
+    padding-left: 3px;
+    
+}
+.pending:hover{
+    box-shadow: 5px 10px 18px #494848;
+    opacity: 3;
+}
